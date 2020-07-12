@@ -1,5 +1,9 @@
 ### Привет! 👋
 
+<a href="https://t.me/limitedeternity"><img align="left" height=20 width=20 src="https://telegrapher.ru/images/download/icons/telegram.svg" /></a>
+<a href="https://vk.me/limitedeternity"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/vk-256x256.png" /></a>
+<br>
+
 Меня зовут Вячеслав. Не шалю, никого не трогаю, починяю примус.
 
 В никнейме ударение в "имени" на "И", в "фамилии" – на "Я". Под этим псевдонимом я обитаю в Интернете, неформально публикуюсь и всё такое.
