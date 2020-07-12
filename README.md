@@ -12,7 +12,7 @@
 
 **Что делаю**:
 
-* Использую JavaScript для [сервера](https://github.com/UnblockerAPI) (Node), для браузера [[1](https://github.com/limitedeternity/dnevnik-client), [2](https://github.com/limitedeternity/AbitOnline)] (Vanilla+Vue) и для десктопа [[1](https://github.com/limitedeternity/MimeDetect), [2](https://github.com/limitedeternity/TextReader)].
+* Использую JavaScript для [сервера](https://github.com/UnblockerAPI) (Node), для браузера [[1](https://github.com/limitedeternity/dnevnik-client), [2](https://github.com/limitedeternity/AbitOnline)] (Vanilla+Vue) и для десктопа [[1](https://github.com/limitedeternity/MimeDetect), [2](https://github.com/limitedeternity/TextReader)] (Electron).
 <br>А ещё есть [библиотека](https://www.npmjs.com/package/@limitedeternity/channel4), реализующая [CSP](https://en.wikipedia.org/wiki/Communicating_sequential_processes).
 
 * Использую Java для [сервера](https://github.com/limitedeternity/JBA-WebQuizEngine) (Spring Boot), для [консольных приложений](https://github.com/limitedeternity/JBA-Blockchain) и для [десктопа](https://github.com/limitedeternity/TextEditor) (Swing).
