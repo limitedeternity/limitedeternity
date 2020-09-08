@@ -29,7 +29,7 @@
 
 **"Дневные" достижения**:
 
-* **"Безумное родео"**: за месяц выполнить два проекта уровня Challenging на платформе [**HyperSkill**](https://hyperskill.org/profile/37482557), имея нулевой опыт работы с Java в начале пути.
+* **"Гранд родео"**: за месяц выполнить два проекта уровня Challenging на платформе [**HyperSkill**](https://hyperskill.org/profile/37482557), имея нулевой опыт работы с Java в начале пути.
 
 **"Ночные" достижения**:
 
@@ -37,7 +37,7 @@
 
 * **"А что, так можно было?"**: расширить знания по эксплуатации Linux-систем, используя [**Nebula**](https://exploit.education/nebula/).
 
-* **"process is executing new program /bin/dash"**: расширить знания по эксплуатации бинарных уязвимостей, используя [**Phoenix**](https://exploit.education/phoenix/)
+* **"process is executing new program /bin/dash"**: расширить знания по эксплуатации бинарных уязвимостей, используя [**Phoenix**](https://exploit.education/phoenix/).
 
 * **"Приключение на 20 минут"**: пройти [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood) за 20 минут, в процессе открыв для себя пару-тройку тайных знаний.
 
@@ -45,7 +45,7 @@
 
 **"Дневные" планы**:
 
-* Построить свою систему контроля версий (#42SkillsChallenge).
+* Алгоритмы кодирования.
 
 **"Ночные" планы**:
 
