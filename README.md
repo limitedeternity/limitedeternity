@@ -39,7 +39,7 @@
 
 * **"process is executing new program /bin/dash"**: расширить знания по эксплуатации бинарных уязвимостей, используя [**Phoenix**](https://exploit.education/phoenix/).
 
-* **"Приключение на 20 минут"**: пройти [dostackbufferoverflowgood](https://github.com/justinsteven/dostackbufferoverflowgood) за 20 минут, в процессе открыв для себя пару-тройку тайных знаний.
+* **"Приключение на 20 минут"**: пройти [dostackbufferoverflowgood](https://github.com/limitedeternity/dostackbufferoverflowgood) за 20 минут, в процессе открыв для себя пару-тройку тайных знаний.
 
 -----
 
@@ -49,7 +49,7 @@
 
 **"Ночные" планы**:
 
-* Пройти [**ROP Emporium**](https://ropemporium.com/) – курс по технике возвратно-ориентированного программирования с целью обхода NX.
+* Пройти [**ROPEmporium**](https://ropemporium.com/) – курс по технике возвратно-ориентированного программирования с целью обхода NX.
 
 * Пройти [**Fusion**](https://exploit.education/fusion/), чтобы получить более обширное понимание современных защитных механизмов в программах.
 
