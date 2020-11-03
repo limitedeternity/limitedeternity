@@ -55,4 +55,4 @@
 
 * Пройти курс на [**Udemy**](https://www.udemy.com/course/linux-heap-exploitation-part-1) по эксплуатации "выделителей памяти" (malloc).
 
-<img src="https://www.festivalclaca.cat/imgfv/b/17-175067_waves-red-footer-png-waves.png" height=200px width=100% />
+<img src="https://www.nicepng.com/png/detail/98-982258_footer-bg-waves-audio.png" height=200px width=100% />
