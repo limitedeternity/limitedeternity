@@ -41,7 +41,7 @@
 
 * **"Приключение на 20 минут"**: пройти [dostackbufferoverflowgood](https://github.com/limitedeternity/dostackbufferoverflowgood) за 20 минут, в процессе открыв для себя пару-тройку тайных знаний.
 
-* **"На твёрдую четвёрочку"**: выполнить задания [**ROPEmporium**](https://ropemporium.com/) на 75%.
+* **"Индиана Джонс"**: выполнить все задания [**ROPEmporium**](https://ropemporium.com/) для архитектур i386 и amd64.
 
 -----
 
