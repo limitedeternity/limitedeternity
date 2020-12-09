@@ -47,8 +47,6 @@
 
 **"Ночные" планы**:
 
-* Пройти [**Fusion**](https://exploit.education/fusion/), чтобы получить более обширное понимание современных защитных механизмов в программах.
-
 * Пройти курс на [**Udemy**](https://www.udemy.com/course/linux-heap-exploitation-part-1) по эксплуатации "выделителей памяти" (malloc).
 
 <img src="https://www.nicepng.com/png/detail/98-982258_footer-bg-waves-audio.png" height=200px width=100% />
