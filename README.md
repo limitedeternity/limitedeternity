@@ -43,10 +43,8 @@
 
 * **"Индиана Джонс"**: выполнить все задания [**ROPEmporium**](https://ropemporium.com/) для архитектур i386 и amd64.
 
+* **"Одного байта хватит"**: пройти курс на [**Udemy**](https://www.udemy.com/course/linux-heap-exploitation-part-1) по эксплуатации "выделителей памяти" (malloc).
+
 -----
-
-**"Ночные" планы**:
-
-* Пройти курс на [**Udemy**](https://www.udemy.com/course/linux-heap-exploitation-part-1) по эксплуатации "выделителей памяти" (malloc).
 
 <img src="https://www.nicepng.com/png/detail/98-982258_footer-bg-waves-audio.png" height=200px width=100% />
