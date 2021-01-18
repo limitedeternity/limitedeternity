@@ -21,7 +21,7 @@
 
 * Использую Python для консольных приложений [[1](https://github.com/limitedeternity/UpDown), [2](https://github.com/limitedeternity/gRPC-AddressBook), [3](https://github.com/limitedeternity/foxford_courses/tree/master/foxford_downloader)].
 
-* [Пробую Rust](https://github.com/limitedeternity/squidclient) в качестве языка для системного программирования. [Но и C++ не брезгую](https://github.com/limitedeternity/TIPS-Labs).
+* Использую Rust [[1](https://github.com/limitedeternity/squidclient), [2](https://github.com/limitedeternity/yanes)] в качестве языка для системного программирования. [Но и C++ не брезгую](https://github.com/limitedeternity/TIPS-Labs).
 
 * Пишу в случае необходимости на Haskell [[1](https://github.com/limitedeternity/some-gists/blob/master/RelationalAlgebra/logicTable.hs), [2](https://github.com/limitedeternity/some-gists/blob/master/RelationalAlgebra/zhegalkinPoly.hs), [3](https://github.com/limitedeternity/some-gists/blob/master/LambdaCalculus/Lambda-to-SKI-to-JS/main.hs)].
 
