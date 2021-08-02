@@ -1,7 +1,7 @@
-## Привет! 👋
+## Привет! <img src="images/wave.gif" height=30 width=30>
 
-<a href="https://t.me/limitedeternity"><img align="left" height=20 width=20 src="https://telegrapher.ru/images/download/icons/telegram.svg" /></a>
-<a href="https://vk.me/limitedeternity"><img align="left" height=20 width=20 src="https://pngicon.ru/file/uploads/vk-256x256.png" /></a>
+<a href="https://t.me/limitedeternity"><img align="left" height=20 width=20 src="images/telegram.svg" /></a>
+<a href="https://vk.me/limitedeternity"><img align="left" height=20 width=20 src="images/vk.png" /></a>
 <br>
 
 Меня зовут **Вячеслав**. Для простоты можно **Ви**. 
